@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lZ8Fy3C3Tr2Hi7IIib333MCak6YOxPOD315LHRRisV5AgsSoa0WZM2kb9O07F+HrFXKemZlJTR3Qgs59vz66w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fride\\source\\repos\\SystemChatServer\\SystemChatServer\\SystemChatServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fride\\.nuget\\packages\\guna.ui2.winforms\\2.0.4\\guna.ui2.winforms.2.0.4.nupkg.sha512",
+    "C:\\Users\\fride\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\fride\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
